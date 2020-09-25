@@ -1,8 +1,8 @@
-Infospot component 
+## Infospot component 
 
 Wykonany na bazie własnego projektu: https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play
 
-Funkcje danego Infospota:
+**Funkcje danego Infospota:**
 
 - dodawanie modułów: tytuł, obraz, wideo, informacje (z limitem do 3 okien),
 - infospot skaluję się na podstawie ilości włączonych modułów,
